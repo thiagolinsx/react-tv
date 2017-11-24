@@ -99,7 +99,7 @@ $ yarn add react-tv
 #### 1: Install globally React-TV
 
 ```bash
-$ yarn add --global react-tv
+$ yarn global add react-tv
 ```
 
 #### 2: Setup WebOS Environment
